@@ -1,0 +1,7 @@
+.vs/**
+bin/**
+Debug/**
+x64/**
+include/cryptopp/.vs/**
+include/cryptopp/Win32/**
+include/cryptopp/x64/**
